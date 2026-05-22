@@ -77,5 +77,13 @@ background-color: #ffe187;
     font-weight: bold;
     margin-top: 10px;
 }
+.pokeboll{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    top: 2350px;
+    left: 15%;
+    opacity: 30%;
+}
 
 
